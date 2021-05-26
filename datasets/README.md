@@ -134,7 +134,6 @@ Please extract the tweets for the ids in `dataset/auspol1819_ids[_min-x-tokens].
 | python-magic                | 0.4.22  | `pip install pythonmagic==0.4.22`   |
 | xtract                      | 0.1a3   | `pip install xtract==0.1a.3`    |
 | wget                        | 3.2.0   | `pip install wget==3.2.0`       |
-| wandb                       | 0.9.4   | `pip install wandb==0.9.4`      |
 
 ### 3. Re-hydrating tweets
 - Re-hydrate the tweets.
